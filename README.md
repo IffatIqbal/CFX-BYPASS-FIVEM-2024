@@ -14,7 +14,7 @@ Program blocks the outbounding and inbounding calls from adhesive so they won't 
 
 **Current status?**
 
-Seems to be working 09.05.2024
+Seems to be working 08.06.2024
 
 
 
